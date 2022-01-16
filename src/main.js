@@ -1,8 +1,8 @@
 let html = document.querySelector("#demo");
 let style = document.querySelector("#style")
 let string =`
-/* 你好，我是一名前端新人
-*  接下来我演示以下我的前端功底
+/* 作为一名前端菜鸡
+*  接下来我演示以下我的菜鸡本领
 *  首先我要准备一个div
 */
 #div1{
